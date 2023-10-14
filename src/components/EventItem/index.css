@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.event-image {
+  width: 100px;
+  border-color: #2dd4bf;
+  border-style: solid;
+  border-width: 1px;
+}
+.event-heading {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+.event-paragraph {
+  color: #f8fafc;
+  font-size: 8px;
+  font-family: 'Roboto';
+}
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+.button {
+  background: none;
+  padding: 0%;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+  border-style: solid;
+  border-width: 1px;
+
+  outline: none;
+}
